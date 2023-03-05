@@ -6,7 +6,7 @@ authors = ["GithubRedMouth <90645738+GithubRedMouth@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 selene = "^2.0.0b17"
 pytest = "^7.1.3"
 allure-pytest = "^2.10.0"
